@@ -1,0 +1,45 @@
+.header{
+    margin-top: 50px;
+       font-size: 16px;
+    color: #07020FCC;
+    font-size: 16px;
+background: rgba(70,70,60,0.4)
+}
+
+.btn-group{
+    margin-top: 200px;
+margin-left: 58px;
+padding: 5px 80px;
+margin-bottom: 50px;
+margin-left: auto;
+}
+.btn-group > .btn:first-child{
+    padding: 5px 80px ;
+    width: 20px;
+    text-align: center;
+}
+.btn-default:hover {
+    color: #3D3C42;
+    background-color: #676668;
+    border-color: #12090d;}
+    .btn-default{
+        color: #AAA;
+   background-color: #2F4F4F;
+    }
+body {
+    background: #aaa url("images/best4") no-repeat fixed center;
+    padding: inherit;
+}
+/*class of btn section*/
+.container{
+  padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+   max-width: 900px;
+   overflow:hidden;
+   min-height:0px !important;
+}
+.heighbtn{
+    margin-top: 10px; 
+}

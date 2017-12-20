@@ -1,0 +1,140 @@
+
+
+
+
+.os{
+   background:#AFA;
+    color:rgb(0,0,100);
+    margin: 10px;
+    padding: 10px;
+}
+.hh{
+   display : inline-block;
+}
+body{
+   padding: 70px;
+   font-size: 18px;
+}
+.img-responsive:{
+   margin: auto;
+}
+
+/*navbar edit */
+.navbar-inverse .navbar-brand span{
+   color: #E41B17;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+   background-color: #F41B17;
+   color: #AAA
+}
+
+   .dropdown-menu{
+      background-color:#AAA;
+   }
+   .dropdown-menu > li > a{
+            padding: 5px 20px;
+-webkit-transition: padding 0.5s ease;
+-moz-transition: padding 0.5s ease;
+-o-transition: padding 0.5s ease;
+transition: padding 0.5s ease;
+
+
+      
+      
+   }
+   
+   
+  
+   .dropdown-menu > li > a:hover,
+   .dropdown-menu > li > a:focus{
+      background-color: #E14B17;
+      color: #FFF;
+      padding-left: 25px;
+      padding-bottom: 20px; 
+   }
+  .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand{
+   background-color:#000000;
+  }
+  /*line un drop menu*/
+  .dropdown-menu .divider{
+   background-color: #E41B17;
+  }
+  /*end of navbar edit*/
+  
+  .carousel-caption {
+   
+   bottom: 305px;
+   background: rgba(3,3,3,0.4)
+
+   
+  }
+/*section features*/
+.features h1{
+   color: #E41B17;
+}
+
+
+.features span.glyphicon {
+   margin-top: 20px;
+   color: #E41B17;
+}
+.features{
+   background: #AAA;
+}
+.test{
+   padding-bottom: 50px;
+   padding-top:50px;
+   margin-bottom: 15px;
+}
+  .test p lead{ 
+   font-size: 25px;
+   padding-bottom: 20px;
+   margin-top: 90px;
+   
+  }
+  .ahh p{
+   font-size: 25px;
+   padding-bottom: 20px;
+   margin-top: 90px;
+  }
+  .carousel-inner .lead{
+   margin-bottom: auto;
+  }
+  .carousel-inner{
+  min-height: 20px;
+  }
+  body {
+    background: #00ff00 url("images/best2") no-repeat fixed center;
+    padding: inherit;
+}
+ .test .carousel-indicators{
+   
+   position: static;
+   width: 100%;
+   margin-left: auto;
+  
+ }
+ .test .carousel-indicators li{
+   text-indent: 0;
+   width: 80px;
+   height: 80px;
+   border: 3px solid #AAA;
+     opacity: 0.4;
+
+ }
+ .test .carousel-indicators li img{
+  max-width: 100%;
+  overflow: hidden;
+  
+ }
+ .test .carousel-indicators li.active{
+   opacity: 1.0;
+ }
+  .carousel-indicators li{
+   color: #E41B17;
+   background-color:#AAA;
+   margin-top: 30px;
+   border:1px solid #AFA;
+  }
